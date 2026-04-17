@@ -1,0 +1,1 @@
+# qazmanufacture-bot
