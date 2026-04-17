@@ -1,0 +1,5 @@
+services:
+  - type: worker
+    name: qazmanufacture-bot
+    env: docker
+    plan: free
